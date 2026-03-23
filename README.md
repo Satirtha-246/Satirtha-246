@@ -1,96 +1,80 @@
-<h2 align="center">Hi 👋, I'm Satirtha Singha  <br>💻 Computer Science Student | 🚀 App Development Enthusiast</h2>
+<h1 align="center">Hi 👋, I'm Satirtha Singha</h1>
 
-###
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Computer+Science+Student;App+Developer+🚀;AI+%2B+Smart+Systems+Enthusiast;Creative+Mind+🎨;Always+Building+🔥" />
+</p>
 
-<p align="left">I love building apps that turn ideas into real-world solutions. Always learning, always creating.</p>
+<p align="center">
+💻 Computer Science Student | 🚀 App Development Enthusiast  
+</p>
 
-###
+<p align="center">
+I love building apps that turn ideas into real-world solutions.
+</p>
 
-<img src="https://raw.githubusercontent.com/Satirtha-246/Satirtha-246/output/snake.svg" alt="Snake animation" />
+---
 
-###
+## 🟢 Activity Graph
 
-<img align="left" height="150" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NjR3Nm1xOWc0cWMxeGdrdXFxdmMwd2ViNGJqcXJ3ZWF6cmZvOTRuMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/GghGKaZ8JeHJx0apQC/giphy.gif"  />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Satirtha-246&theme=tokyo-night&hide_border=true&area=true" />
 
-###
+---
 
-<img align="right" height="130" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExanRhZXl6cjF0ZjhvYThnYmN2MzI0OThyeXh6M2o2MGx2b21sZDZyZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ntO3EWEDVR184/giphy.gif"  />
+## 🌌 About Me
 
-###
+<img align="right" height="150" src="https://media.giphy.com/media/GghGKaZ8JeHJx0apQC/giphy.gif"  />
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="30" alt="xcode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30" alt="r logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/fedora/51A2DA" height="30" alt="fedora logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/apple/000000" height="30" alt="apple logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="30" alt="notion logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="30" alt="kaggle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/safari/safari-original.svg" height="30" alt="safari logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="30" alt="chrome logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="30" alt="google logo"  />
-</div>
+- 🎓 B.Tech CSE (Data Science)  
+- 📱 App Development Focused  
+- 🧠 Exploring AI + Smart Systems  
+- 🎨 Passionate about Creativity  
 
-###
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Satirtha-246&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=tokyonight&hide_border=true" height="123" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=Satirtha-246&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph"  />
-</div>
+## 🚀 Projects & Vision
 
-###
+<img align="left" height="130" src="https://media.giphy.com/media/ntO3EWEDVR184/giphy.gif"  />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Satirtha-246/Satirtha-246/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Satirtha-246/Satirtha-246/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Satirtha-246/Satirtha-246/output/pacman-contribution-graph.svg">
-</picture>
+    -      Calculator App 
+    -      CampusCore - a app that help student to track their daily acitivty
+    -      Student Productivity App  
 
-###
+   >    🧠 *Building intelligent systems that simplify life*
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+---
 
-###
+## 🛠️ Tech Stack
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=10&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,dart,flutter,firebase,git,cpp,java,github,vscode,apple,notion" />
+</p>
 
-###
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Satirtha-246&layout=compact&theme=tokyonight&hide_border=true" height="130"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Satirtha-246&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+</p>
+
+---
+
+## 👾 Contribution Graph (Pacman)
+
+<img src="https://raw.githubusercontent.com/Satirtha-246/Satirtha-246/main/pacman-contribution-graph.svg" />
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Gmail-00F7FF?style=for-the-badge&logo=gmail&logoColor=black"/></a>
+</p>
+
+---
+
+<h3 align="center">🔥 Code. Create. Innovate. 🔥</h3>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&height=10&section=footer&color=gradient"/>
