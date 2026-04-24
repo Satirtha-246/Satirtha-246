@@ -58,7 +58,7 @@ I love building apps that turn ideas into real-world solutions.
   <img src="https://github-readme-stats.vercel.app/api?username=Satirtha-246&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
---
+---
 
 ## 🌐 Connect With Me
 
